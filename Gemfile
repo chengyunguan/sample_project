@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 gem 'rubyzip',  '~> 0.9.9'
 gem 'bootstrap-sass', '2.3.2.0'
+gem 'bcrypt-ruby', '3.0.1'
 # Use sqlite3 as the database for Active Record
 
 # Use SCSS for stylesheets
